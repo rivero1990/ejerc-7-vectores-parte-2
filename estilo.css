@@ -1,0 +1,14 @@
+body {
+    display: grid;
+    place-content: center;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+#contenedor-titulos {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#titulo-principal {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
